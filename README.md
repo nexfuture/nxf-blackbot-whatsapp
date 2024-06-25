@@ -1,4 +1,3 @@
-# ![nexbot](https://brieffib.sirv.com/logo.png)
 
 <p align="center">
   <img src="https://brieffib.sirv.com/logo.png" alt="nexbot logo" width="200" />
@@ -20,27 +19,20 @@
 ## Sobre o Projeto
 
 <p style="color: #000080;">
-  <strong>nexbot</strong> é uma plataforma avançada de automação projetada para simplificar tarefas complexas e aumentar a eficiência. Utilizando tecnologias de ponta, o nexbot oferece uma solução robusta e fácil de usar para empresas de todos os tamanhos.
+  <strong>NEX FUTURE CLOUD</strong> Este Repositorio está sendo usaod em nexfuture.com.br, a melhor hospedagem de Bots Brazil.
 </p>
 
 ## Funcionalidades
 
 - Automação inteligente de tarefas
-- Integração com diversos serviços
-- Interface amigável e intuitiva
-- Relatórios detalhados de performance
+- Figurinhas no Whatsapp
+- Download das melhores PLataformas digitas
+- Jogos 
+- Brincadeiras
+- Interação com Users
+- Segurança
 
 ## Instalação
 
 ```sh
-# Clone o repositório
-git clone https://github.com/nexfuture/nxf-blackbot-whatasapp.git
-
-# Entre no diretório do projeto
-cd nxf-blackbot-whatasapp
-
-# Instale as dependências
-npm install
-
-# Inicie o projeto
-node .
+# Acesse nexfuture.com.br e crie já seu servidot!
