@@ -19,7 +19,7 @@
 ## Sobre o Projeto
 
 <p style="color: #000080;">
-  <strong>NEX FUTURE CLOUD</strong> Este Repositorio está sendo usaod em nexfuture.com.br, a melhor hospedagem de Bots Brazil.
+  <strong>NEX FUTURE CLOUD</strong> Este Repositorio está sendo usado em nexfuture.com.br, a melhor hospedagem de Bots Brazil.
 </p>
 
 ## Funcionalidades
