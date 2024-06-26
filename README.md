@@ -35,4 +35,4 @@
 ## Instalação
 
 ```sh
-# Acesse nexfuture.com.br e crie já seu servidot!
+# Acesse nexfuture.com.br e crie já seu servidor!
