@@ -3,7 +3,7 @@
   <img src="https://brieffib.sirv.com/logo.png" alt="nexbot logo" width="200" />
 </p>
 
-<h1 align="center" style="color: #1E90FF;">nexbot</h1>
+<h1 align="center" style="color: #1E90FF;">☁ NEX FUTURE CLOUD ☁</h1>
 
 <p align="center" style="color: #1E90FF; font-size: 1.2em;">
   O futuro da automação inteligente
